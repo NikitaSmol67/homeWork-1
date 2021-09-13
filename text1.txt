@@ -1,0 +1,4 @@
+Petr 20100
+Lem 10000
+Nikita 100000
+Alex 11000
